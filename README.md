@@ -3,7 +3,7 @@ Collection of OpenSCAD Designs. Most of them should also be available in my [thi
 
 The designs are organised in different directories and categories:
 
-* 3d-printing: This directory will contain designs that are mostly 3D printing accessories or custom parts
+* [3d-printing](3d-printing): This directory will contain designs that are mostly 3D printing accessories or custom parts
 
 # License
 
